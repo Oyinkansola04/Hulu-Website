@@ -6,7 +6,7 @@
 }
 
 .container{
-    background-image: url(Image/original.jpeg);
+    background-image: url("../assets/original.jpeg");
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -244,28 +244,28 @@
 }
 
 .text-cont .edit{
-    background-image: url(Image/family\ guy.png);
+    background-image: url("../assets/family_guy.png");
 }
 
 .text3 .text-cont .edit.A2{
-    background-image: url(Image/prey.jpeg);
+    background-image: url("../assets/prey.jpeg");
 }
 
 .text3 .text-cont .edit.A3{
-    background-image: url(Image/shogun.jpeg);
+    background-image: url("../assets/shogun.jpeg");
 }
 
 .text3 .text-cont.A4{
     border-right-style: none;
-    background-image: url(Image/sopranos.png);
+    background-image: url("../assets/sopranos.png");
 }
 
 .text-cont .edit.A4{
-    background-image: url(Image/sopranos.png);
+    background-image: url("../assets/sopranos.png");
 }
 
 .text-cont .edit{
-    background-image: url(Image/family\ guy.png);
+    background-image: url("../assets/family_guy.png");
     background-position: center;
     background-size: cover;
     width: 100%;
